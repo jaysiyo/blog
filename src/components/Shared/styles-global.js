@@ -374,8 +374,11 @@ export const GlobalStyles = createGlobalStyle`
       background-clip: padding-box;
     }
 
+  .gatsby-resp-image-background-image {
+    background-image: none !important;    
+  }
+
   table {
-    display: block;
     font-family: sans-serif;
     margin: 0.5rem 0;
     width: 100%;
