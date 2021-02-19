@@ -1,6 +1,7 @@
 ---
 title: 첫 번째 글
 date: 2021-02-18
+tags: ['Etc']
 excerpt: First Posting
 ---
 
