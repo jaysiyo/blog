@@ -9,7 +9,7 @@ const Footer = () => {
     <StyledFooter className="main-footer">
       <div>
         <span>© {new Date().getFullYear()} </span>
-        {config.author}
+        {config.profileDescription}
       </div>
     </StyledFooter>
   )
