@@ -13,10 +13,10 @@ const config = {
 
   /* Profile
   ========================================= */
-  author: `siyo`,                             // Name shows on profile
-  profileDescription: "개인 블로그",   // Shows under author name
+  author: `개인 블로그`,                             // Name shows on profile
+  profileDescription: "Jeon",   // Shows under author name
   profileImageName: `profile-pic.jpg`,                  // Place profile.jpg/.jpeg/.png in _assets folder
-  location: "Seoul, Korea",                                      // Location under profileDescription. "" --> disabled
+  location: "",                                      // Location under profileDescription. "" --> disabled
   footerLink: "",                                    // Link to page when you click footer name
 
   /* Social Media Links
